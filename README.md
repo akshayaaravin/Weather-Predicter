@@ -26,3 +26,6 @@ This project is a simple yet powerful weather predictor website designed using H
 
 - Weather data provided by [OpenWeatherMap API](https://openweathermap.org/api)
 
+## Preview
+
+![preview](https://github.com/akshayaaravin/Weather-Predicter/assets/152777489/cfe9344a-9fd7-44da-8a4f-fd97adb132db)
