@@ -7,7 +7,7 @@ This project is a simple yet powerful weather predictor website designed using H
 - **Search Functionality**: Users can input the name of their desired city into the search bar and receive accurate weather forecasts instantly.
 - **Real-time Weather Data**: Leveraging the OpenWeatherMap API, the website fetches and displays current weather data, including temperature, humidity, and wind speed, for the specified city.
 - **Dynamic Weather Icons**: The website dynamically updates the weather icon based on the current weather conditions, enhancing the user experience with visual cues.
-- **Responsive Design**: Built with responsiveness in mind, the website adjusts its layout and design to provide an optimal viewing experience across various devices and screen sizes.
+
 
 ## How to Use
 
